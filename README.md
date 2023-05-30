@@ -8,6 +8,18 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bylkuss/JeuDeCartes-Java?color=green" />
 </p>
 
+# Tool used
+- Eclipse IDE
+- IntelliJ
+
+# What was learned in this project:
+- Composition of objects
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+
+
 ## Carte Class
 
 The `Carte` class represents a playing card with a value and a suit. It provides methods to set and retrieve the value and suit of a card.
